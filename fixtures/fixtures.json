@@ -1,0 +1,74 @@
+[
+{
+    "model": "chat.room",
+    "pk": 1,
+    "fields": {
+        "title": "telegram",
+        "staff_only": false
+    }
+},
+{
+    "model": "chat.buttontype",
+    "pk": 1,
+    "fields": {
+        "created_at": "2021-11-25T19:36:53.265Z",
+        "updated_at": "2021-11-25T19:36:53.265Z",
+        "button_type": 1
+    }
+},
+{
+    "model": "chat.buttontype",
+    "pk": 2,
+    "fields": {
+        "created_at": "2021-11-25T19:37:04.575Z",
+        "updated_at": "2021-11-25T19:37:04.575Z",
+        "button_type": 2
+    }
+},
+{
+    "model": "chat.buttontype",
+    "pk": 3,
+    "fields": {
+        "created_at": "2021-11-25T19:37:19.406Z",
+        "updated_at": "2021-11-25T19:37:19.407Z",
+        "button_type": 3
+    }
+},
+
+{
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$100000$Be2TAB8gkXao$Zg3Njgt6g8oowUr6o0quO3OPDlt8LHGnAwenQEh6zKU=",
+        "last_login": "2021-11-25T22:28:38.486Z",
+        "is_superuser": true,
+        "username": "admin",
+        "first_name": "",
+        "last_name": "",
+        "email": "admin@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2021-11-25T22:28:19.487Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$100000$IL0Jk9EONF6n$S4Q8Yqxsii3B3a04U7DORt7AAlMdykSESPknFA09Mj4=",
+        "last_login": "2021-11-25T22:30:20.866Z",
+        "is_superuser": false,
+        "username": "testuser",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2021-11-25T22:29:31.596Z",
+        "groups": [],
+        "user_permissions": []
+    }
+}
+]
