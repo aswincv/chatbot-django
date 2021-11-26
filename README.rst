@@ -1,7 +1,8 @@
 TODO
 ====
 
-in jinja buttons needs to be added(DUMP-FAT-STUPID- related to jquery), now we have to write any keyword then only we will get response
+in jinja buttons needs to be added(DUMP-FAT-STUPID- related to jquery), now we have to write
+keyword then only we will get response
 
 
 MultiChat
